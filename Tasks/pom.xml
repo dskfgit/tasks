@@ -11,7 +11,7 @@
     <properties>
         <odata.version>4.0.0-beta-02</odata.version>
     </properties>
-
+<!-- A change from macbook -->
 <dependencies>
   <dependency>
     <groupId>javax.servlet</groupId>
